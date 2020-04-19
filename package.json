@@ -40,6 +40,6 @@
     "jade": "1",
     "marked": "0.6.2",
     "mocha": "*",
-    "weak": "github:lxe/node-weak#node-12"
+    "weak": "github:torder-dev/node-weak#node-12"
   }
 }
